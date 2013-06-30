@@ -1,0 +1,9 @@
+#appname:APNSSandbox
+#appid:com.cerebrum.apnssandbox
+#type:mobile
+#guid:7f6b7540-3277-41de-99c8-c9344f49a3e3
+#version:1.0
+#publisher:eraad
+#url:http://www.cerebrum.ec
+#image:appicon.png
+#desc:Apple Push Notifications Service sandbox application.

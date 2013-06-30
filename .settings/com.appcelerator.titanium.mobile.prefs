@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=APNSSandbox
+iosLaunchConfigurationAttributes/appid=com.cerebrum.apnssandbox
+iosLaunchConfigurationAttributes/certificate=EDUARDO RAAD (6924AQ7FQF)
+iosLaunchConfigurationAttributes/distribute_path=/Users/eraad/Downloads
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/output_format=ipa
+iosLaunchConfigurationAttributes/sdk_version=6.1
+iosLaunchConfigurationAttributes/uuid=3E6B90D9-3F35-4E84-BD77-CA09953693AB

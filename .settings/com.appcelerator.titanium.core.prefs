@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+provisioning_profiles/adhoc/4C1B8C76-2B56-4EF2-BF92-D9B4CD2F9DC7/appid=com.datilmedia.AnalisisSemanal
+provisioning_profiles/adhoc/4C1B8C76-2B56-4EF2-BF92-D9B4CD2F9DC7/name=Pruebas Analisis Semanal testflight
+provisioning_profiles/adhoc/4C1B8C76-2B56-4EF2-BF92-D9B4CD2F9DC7/uuid=4C1B8C76-2B56-4EF2-BF92-D9B4CD2F9DC7
+provisioning_profiles/adhoc/86978D58-1DF6-4811-BBB6-676714642BC1/appid=com.cerebrum.apnssandbox
+provisioning_profiles/adhoc/86978D58-1DF6-4811-BBB6-676714642BC1/name=APNSSandbox Developer
+provisioning_profiles/adhoc/86978D58-1DF6-4811-BBB6-676714642BC1/uuid=86978D58-1DF6-4811-BBB6-676714642BC1
+provisioning_profiles/development/3E6B90D9-3F35-4E84-BD77-CA09953693AB/appid=com.cerebrum.apnssandbox
+provisioning_profiles/development/3E6B90D9-3F35-4E84-BD77-CA09953693AB/name=APNS Sandbox
+provisioning_profiles/development/3E6B90D9-3F35-4E84-BD77-CA09953693AB/uuid=3E6B90D9-3F35-4E84-BD77-CA09953693AB
